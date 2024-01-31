@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/FPWeapon/*
+Content/__ExternalActors__/FirstPerson/*
+Content/__ExternalObjects__/FirstPerson/*
+Content/FirstPerson/*
+Content/FirstPersonArms/*
+Content/LevelPrototyping/*
